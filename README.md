@@ -1,4 +1,4 @@
-# TJL107
+# TJL07
 Aula de Engenharia do Software 
 
 Aula de GIT para a Turma de Jogos Digitais da Faculdade Méliès
@@ -7,7 +7,7 @@ Passos:
 
 Instale o git na sua máquina: https://git-scm.com/
 
-Clone esse projeto: git clone https://github.com/ProLia/TJL107.git
+Clone esse projeto: git clone https://github.com/ProLia/TJL07.git
 
 Crie uma pasta com seu nome.
 
