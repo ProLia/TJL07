@@ -1,0 +1,13 @@
+Dicas
+
+Git - guia prático
+      https://rogerdudler.github.io/git-guide/index.pt_BR.html​
+
+Git - Documentação
+      https://git-scm.com/docs/git/pt_BR
+
+Git - Dowload
+      https://git-scm.com/download/win
+
+Git  - Hub
+      https://github.com/
